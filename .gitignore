@@ -10,6 +10,11 @@ node_modules/
 dist/
 build/
 
+# Documentation & large binaries
+*.pdf
+*.docx
+*.doc
+
 # Archives & Large documents
 *.zip
 *.rar
