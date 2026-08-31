@@ -12,11 +12,11 @@ import Cart from "./pages/Cart.jsx";
 import AddAddress from "./pages/AddAddress.jsx";
 import MyOder from "./pages/MyOder.jsx";
 import OrderTracking from "./pages/OrderTracking.jsx";
-import SellerLogin from "./components/Seller/sellerlogin.jsx";
+import SellerLogin from "./components/Seller/sellerLogin.jsx";
 import Sellerlayout from "./pages/Seller/Sellerlayout.jsx";
 import Addproduct from "./pages/Seller/Addproduct.jsx";
 import ProductList from "./pages/Seller/ProductList.jsx";
-import Oder from "./pages/Seller/oder.jsx";
+import Oder from "./pages/Seller/Oder.jsx";
 
 const App = () => {
 
